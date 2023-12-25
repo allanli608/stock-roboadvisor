@@ -1,7 +1,7 @@
 # About
-This was Team 14's submission to the annual CFM 101 Team Competition at the University of Waterloo, where it achieved 2nd place.
+This was Team 14's (Allan Li, Max Hua (github.com/BleakBubbles), and Zayaan Siddiqui) submission to the annual CFM 101 Team Competition at the University of Waterloo, where it achieved 2nd place overall against ~15 other teams
 # How it works
-When given an arbitrary list of stocks, our program performs statistical analyses and picks certain stocks out of the list to form the safest portfolio possible.
+When given an arbitrary list of stocks, our program performs statistical analyses and picks certain stocks out of the list to form the safest portfolio possible. 
 # Usage
 If you're interested in trying out our program, simply go through the following steps:
 1. Download the `.ipynb` file from our repository
